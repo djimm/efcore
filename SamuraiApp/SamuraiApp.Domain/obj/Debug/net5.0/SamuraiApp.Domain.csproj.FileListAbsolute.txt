@@ -1,0 +1,12 @@
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.deps.json
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\ref\SamuraiApp.Domain.dll
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.pdb
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\ref\SamuraiApp.Domain.dll
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.pdb
