@@ -13,3 +13,6 @@ C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\S
 C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.dll
 C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\ref\SamuraiApp.Data.dll
 C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.pdb
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.runtimeconfig.json
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.runtimeconfig.dev.json
+C:\Midlertidig_Lagring\kurs\efcore\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.genruntimeconfig.cache
