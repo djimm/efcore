@@ -13,7 +13,7 @@ namespace SamuraiApp.UI
         static void Main(string[] args)
         {
             _context.Database.EnsureCreated();
-            //AddSamurais("Whatta", "Heuhst");
+            AddSamuraisByName("Whatta1", "Heuhst1", "Kejo", "Arnulx");
             GetSamurais("");
             Console.WriteLine("Trykk en tast...");
             Console.ReadKey();
@@ -26,7 +26,7 @@ namespace SamuraiApp.UI
             _context.SaveChanges();
         }
 
-        private static void AddSamurais(params string[] names)
+        private static void AddSamuraisByName(params string[] names)
         {
             foreach (string name in names)
             {
