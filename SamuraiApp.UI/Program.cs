@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SamuraiApp.UI
 {
-    class Program
+    public static class Program
     {
 
         private static SamuraiContext _context = new SamuraiContext();
@@ -17,13 +17,6 @@ namespace SamuraiApp.UI
             GetSamurais("");
             Console.WriteLine("Trykk en tast...");
             Console.ReadKey();
-        }
-
-        private static void addSamurai()
-        {
-            var samurai = new Samurai { Name = "kejo" };
-            _context.Samurais.Add(samurai);
-            _context.SaveChanges();
         }
 
         private static void AddSamuraisByName(params string[] names)
