@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.UI\\SamuraiApp.UI.csproj": {}
+    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.UI\\SamuraiApp.UI.csproj": {}
   },
   "projects": {
-    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
+    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+        "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
         "projectName": "SamuraiApp.Data",
-        "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+        "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
         "packagesPath": "C:\\Users\\pauryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\obj\\",
+        "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
-                "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+              "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+                "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
         "projectName": "SamuraiApp.Domain",
-        "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
         "packagesPath": "C:\\Users\\pauryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
+        "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.UI\\SamuraiApp.UI.csproj": {
+    "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.UI\\SamuraiApp.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.UI\\SamuraiApp.UI.csproj",
+        "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.UI\\SamuraiApp.UI.csproj",
         "projectName": "SamuraiApp.UI",
-        "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.UI\\SamuraiApp.UI.csproj",
+        "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.UI\\SamuraiApp.UI.csproj",
         "packagesPath": "C:\\Users\\pauryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.UI\\obj\\",
+        "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
-                "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj"
+              "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
+                "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\SamuraiApp.Data.csproj"
               },
-              "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
-                "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+              "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+                "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
               }
             }
           }

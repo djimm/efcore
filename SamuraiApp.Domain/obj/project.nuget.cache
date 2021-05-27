@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xreMFPDPxnUKiEDb3CIP9i2WUPuQZ+rHePHq/QwO8qn/stBdVspD2GGkVJ+NE+8sD44Pe6RzmATcmqWDgDUl7A==",
+  "dgSpecHash": "gfDynUSRgQ8ALCnjb02C2hkkwIy1/jJGdM06AxBxeY0I1njYKoILbTyfZbuZ7aTOvZXil+T6hQIDJXlKmNUsBQ==",
   "success": true,
-  "projectFilePath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "projectFilePath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

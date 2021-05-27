@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DKXhfb0+H4EAKHkiEbqMEQ8ZRt8IQJzALoddkm8dln8/R6gmB1TxDWkcyLBCEY68FseC027qE5iGK9bH1C4f9Q==",
+  "dgSpecHash": "vHDI4GHGc0u3TjvjwfSRup6+HuHW8du/ts9bJKuOdUc9af0jW3SHksDAFV4T0YHmlF7usb3mdhzd4GTg7iOCMw==",
   "success": true,
-  "projectFilePath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+  "projectFilePath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pauryl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pauryl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

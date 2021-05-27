@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p2sdMtrYMuDQ0uwnJkFvHEBpOF5al52MfqPqzfUM8I9O6LmgeX7FC/NDI83fKsXuXI1975xtJ0Rzeo+1v9vXLg==",
+  "dgSpecHash": "iBzt4G0bjDsWI3QDyNN7hkWU3wP7YDyfFlZE0StnLy+kG73pACgwQ5laxgBSoQA2bwd7f+uImvy43ywr0m5P8g==",
   "success": true,
-  "projectFilePath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.UI\\SamuraiApp.UI.csproj",
+  "projectFilePath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.UI\\SamuraiApp.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pauryl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\pauryl\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+      "projectUniqueName": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
       "projectName": "SamuraiApp.Domain",
-      "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+      "projectPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
       "packagesPath": "C:\\Users\\pauryl\\.nuget\\packages\\",
-      "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
+      "outputPath": "C:\\Midlertidig_Lagring\\kurs\\efcore\\SamuraiApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pauryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
